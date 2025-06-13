@@ -1,0 +1,3 @@
+West Region has the highest Sales followed by East.
+Technology Products Contributes most in Sales.
+Nov-2017 has highest Sales over time with count of 89k.
